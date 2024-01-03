@@ -1,5 +1,5 @@
 # imagen-y-sonido-a-partir-de-datos-personales
-desarrollo de herramientas informaticas para la generacion de sonido e imagen a partir de datos generados por personas usuarias
+Desarrollo de herramientas informaticas para la generacion de sonido e imagen a partir de datos generados por personas usuarias
 
 Lenguajes y herramientas empleadas: Python, Pure Data, MongoDB (Atlas), Kivy, Socket. 
 
